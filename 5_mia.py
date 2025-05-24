@@ -27,3 +27,15 @@ gpa = int(gpa)
 
 print(age, gpa)
 print(type(age), type(gpa))
+
+age = int(age)
+age = str(age)
+'''
+age += 1
+print(age) it will give error bcz now age = 23 is str.
+so we can't add a number to a string
+'''
+age += '1'
+print(age) 
+# as age is now an str so with + which will concatenate str 1 with 
+# str 23 and that is 231
