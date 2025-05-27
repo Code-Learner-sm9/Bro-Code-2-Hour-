@@ -13,5 +13,6 @@ y = 9.9
 z = 9.1
 
 print(f"Ceil: {math.ceil(z)}")
+
 print(f"Floor: {math.floor(y)}")
 

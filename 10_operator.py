@@ -29,8 +29,10 @@ friends **= 2 # Means if friend is 10 then exponent or power of
 print(friends)
 
 friends = 10
+
 #Modulus
 Remainder = friends % 4
+
 
 friends = 10
 

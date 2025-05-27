@@ -16,5 +16,6 @@ print(pow) # 4*4*4
 z = -3
 #max,min
 print(max(x,y,z))
+
 print(min(x,y,z))
 
